@@ -52,4 +52,5 @@ export const themes = Object.values({
 	idlefingers: "idleFingers",
 	krtheme: "krTheme",
 	monoindustrial: "monoindustrial",
+	"grigoryvp.memory-theme": "grigoryvp.memory-theme",
 });
